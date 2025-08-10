@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashank Rao
 
-<!--
-**Shxshxnk195/Shxshxnk195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently pursuing my studies at **Manipal Institute of Technology**.  
+🤖 I have a deep interest in **robotics**, **microcontrollers**, **bots**, and **autonomous vehicles**.  
+💻 I bring hands-on coding experience in:
+- **Arduino IDE**
+- **Python**
+- **C**
+- **Java** & **JavaFX**
+- **ROS2** (Robotic Operating System) simulations
 
-Here are some ideas to get you started:
+I’m passionate about designing intelligent systems, building autonomous solutions, and exploring new frontiers in technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile, and I hope you enjoy exploring my work! 🚀
